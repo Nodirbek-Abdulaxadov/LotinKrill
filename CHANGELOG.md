@@ -2,6 +2,12 @@
 
 Barcha muhim o'zgarishlar shu faylda [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) formatida yoziladi.
 
+## [1.0.1] - 2026-10-20
+
+### Added
+- Paketga repository ma'lumotlari (GitHub havolasi, commit hash) va SourceLink.
+- Debug simvollari paketi (`.snupkg`).
+
 ## [1.0.0] - 2026-10-20
 
 ### Added

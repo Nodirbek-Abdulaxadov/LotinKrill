@@ -13,6 +13,17 @@
     <Authors>Nodirbek Abdulaxadov</Authors>
     <Copyright>© 2026 Nodirbek Abdulaxadov</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Nodirbek-Abdulaxadov/LotinKrill</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Nodirbek-Abdulaxadov/LotinKrill</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <!-- SourceLink (.NET 8+ SDK ichida): nuspec'ga commit hash, debugger GitHub manbasiga kiradi -->
+  <PropertyGroup>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>
